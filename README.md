@@ -1,3 +1,31 @@
+
+### Hi everyone! With me, success is in your hands 👋
+
+<h3>🏆 Github Profile Trophy</h3>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+</p>
+<!-- <p align = "center"> -->
+<!--   <img style="display: none;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27"> -->
+<!-- </p> -->
+
+<p align="center">
+  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
+</p>
+
+### Skills
+- 🌱 Frontend : React, Next, Vue, Nuxt, Bootstrap, TailwindCSS, TailwindCSS, React Native
+- 🔭 Backend : Node.js, Express, Nest.js, ASP.NET, RESTful API
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
+- 💬 Language : Javascript, Typescript, Python, Solidity, Rust
+- 📫 Interesting & Learning : OpenCV, DL/ML and AI, LLM
+- Infura: AWS, GCP, Azure, Firebas, Supabase, Digital Ocean
+- Blockchain: Ethereum, BSC, Solana, Web3.js, Ethers.js, OpenZeppelin, Metaplex
+
+### Tools
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -126,3 +154,32 @@
     </td>
   </tr>
 </table>
+
+
+### 🔥 &nbsp; My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="TheGoldProject's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- #### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a> -->
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
