@@ -9,9 +9,9 @@
 <!--   <img style="display: none;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27"> -->
 <!-- </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
 </p>
@@ -155,15 +155,14 @@
   </tr>
 </table>
 
+<!--
 
 ### 🔥 &nbsp; My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="TheGoldProject's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheGoldProject&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="TheGoldProject's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoldProject&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
+### 🔥 &nbsp; My Stats :
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGoldProject&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a>
 <!-- #### Top Repositories
 
 
